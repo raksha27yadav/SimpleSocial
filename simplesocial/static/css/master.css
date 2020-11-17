@@ -1,0 +1,35 @@
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: black;
+  margin: 0;
+}
+
+
+#note {
+  position: absolute;
+  color: rgba(249,241,204,1);
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
+#hell:hover{
+  transform: rotate(360deg);
+  transition-duration: 2s;
+  color: #f5e618;
+}
+
+
+#navbar{
+  border: 2px solid white;
+  background-image: linear-gradient(#446e0e, #a9d932);
+  color: inherit;
+
+}
