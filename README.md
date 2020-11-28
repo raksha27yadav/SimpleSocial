@@ -1,3 +1,7 @@
+The frontend i've used in my project is HTML,CSS,JS,BOOTSTRAP.
+
+The frameword i've is django that comes by default with SQLite database.
+
 My  project have these key features :-
 
 Signup page
