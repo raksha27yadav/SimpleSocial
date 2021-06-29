@@ -1,4 +1,4 @@
-The frontend i've used in my project is HTML,CSS,JS,BOOTSTRAP.
+The frontend i've used in my project are HTML,CSS,JS,BOOTSTRAP.
 
 The framework i've is django that comes by default with SQLite database.
 
